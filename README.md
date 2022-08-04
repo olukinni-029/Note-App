@@ -6,7 +6,9 @@
 ### Endpoint
 >POST,GET,DELETE,And UPDATE.
 
+```````````````````
 ### How to install
+``````````````````
 >-Clone this repo
 >-Run : <kbd>npm i </kbd>
 >-Run: npm start
