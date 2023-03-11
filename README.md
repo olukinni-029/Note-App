@@ -1,5 +1,5 @@
 ### Grazac_Challenge
-First challenge done to show knowledge gained during one month of training.A Backend Development CRUD API,showing all used and implementation of node packages.
+First challenge done to show knowledge gained during one month of training. A Backend Development CRUD API,showing all implementation of node packages.
 ### Packages used
 > Express
 
