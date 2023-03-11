@@ -16,7 +16,7 @@ The endpoint are able to perform the following task:
 
 > DELETE *deleting a note or all as desired*
 
-> UPDATE.*editing/patch a note or all notes
+> UPDATE.*editing/patch a note or all notes*
 
 ### How to install
 
