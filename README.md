@@ -22,7 +22,7 @@ First challenge done to show knowledge gained during one month of training.A Bac
 
 > Clone this repo
 ```
-git clone ``
+git clone `https://github.com/olukinni-029/Note-App.git`
 ```
 > Run : <kbd>npm i </kbd> || 
 ```
