@@ -8,15 +8,15 @@ First challenge done to show knowledge gained during one month of training. A Ba
 > Dotenv
 
 > Nodemon.
-
+The endpoint are able to perform the following task:
 ### Endpoint
-> POST
+> POST *creating note with a maxlength of 500 character.*
 
-> GET
+> GET *fetching a note or all notes*
 
-> DELETE
+> DELETE *deleting a note or all as desired*
 
-> UPDATE.
+> UPDATE.*editing/patch a note or all notes
 
 ### How to install
 
