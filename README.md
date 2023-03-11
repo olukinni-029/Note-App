@@ -1,15 +1,33 @@
 ### Grazac_Challenge
-
+First challenge done to show knowledge gained during one month of training.A Backend Development CRUD API,showing all used and implementation of node packages.
 ### Packages used
-> Express, Mongoose, Dotenv, Nodemon.
+> Express
+
+> Mongoose
+
+> Dotenv
+
+> Nodemon.
 
 ### Endpoint
->POST,GET,DELETE,And UPDATE.
+> POST
+
+> GET
+
+> DELETE
+
+> UPDATE.
 
 ### How to install
 
 > Clone this repo
-> Run : <kbd>npm i </kbd>
+```
+git clone ``
+```
+> Run : <kbd>npm i </kbd> || 
+```
+npm install
+```
 > Run: npm start
 
 
